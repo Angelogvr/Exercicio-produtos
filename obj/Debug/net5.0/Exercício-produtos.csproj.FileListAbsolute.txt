@@ -1,0 +1,16 @@
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercício-produtos\bin\Debug\net5.0\Exercício-produtos.exe
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercício-produtos\bin\Debug\net5.0\Exercício-produtos.deps.json
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercício-produtos\bin\Debug\net5.0\Exercício-produtos.runtimeconfig.json
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercício-produtos\bin\Debug\net5.0\Exercício-produtos.runtimeconfig.dev.json
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercício-produtos\bin\Debug\net5.0\Exercício-produtos.dll
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercício-produtos\bin\Debug\net5.0\ref\Exercício-produtos.dll
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercício-produtos\bin\Debug\net5.0\Exercício-produtos.pdb
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercício-produtos\obj\Debug\net5.0\Exercício-produtos.csprojAssemblyReference.cache
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercício-produtos\obj\Debug\net5.0\Exercício-produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercício-produtos\obj\Debug\net5.0\Exercício-produtos.AssemblyInfoInputs.cache
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercício-produtos\obj\Debug\net5.0\Exercício-produtos.AssemblyInfo.cs
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercício-produtos\obj\Debug\net5.0\Exercício-produtos.csproj.CoreCompileInputs.cache
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercício-produtos\obj\Debug\net5.0\Exercício-produtos.dll
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercício-produtos\obj\Debug\net5.0\ref\Exercício-produtos.dll
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercício-produtos\obj\Debug\net5.0\Exercício-produtos.pdb
+C:\Users\marda\OneDrive\Área de Trabalho\TrabalhosBiel\Senai\Exercício-produtos\obj\Debug\net5.0\Exercício-produtos.genruntimeconfig.cache
